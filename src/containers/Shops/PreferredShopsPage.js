@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 
-class SignInPage extends Component {
+class PreferredShopsPage extends Component {
 
     render(){
         return (
             <div>
-                SignInPage
+                PreferredShopsPage
             </div>
         );
     }
 }
 
-export default SignInPage;
+export default PreferredShopsPage;
