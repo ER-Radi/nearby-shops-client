@@ -1,0 +1,6 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const SIGN_UP_SUCCESS = 'SIGN_UP_SUCCESS';
+
+export const ADD_MESSAGE = 'ADD_MESSAGE';
+// export const REMOVE_ERROR = 'REMOVE_ERROR';
+export const RESET_MESSAGES = 'RESET_MESSAGES';
